@@ -1,0 +1,16 @@
+C:\Users\acost\Downloads\backend-c#\UniversidadAPI.Infrastructure\obj\Debug\net8.0\UniversidadAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acost\Downloads\backend-c#\UniversidadAPI.Infrastructure\obj\Debug\net8.0\UniversidadAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\acost\Downloads\backend-c#\UniversidadAPI.Infrastructure\obj\Debug\net8.0\UniversidadAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\acost\Downloads\backend-c#\UniversidadAPI.Infrastructure\obj\Debug\net8.0\UniversidadAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\acost\Downloads\backend-c#\UniversidadAPI.Infrastructure\obj\Debug\net8.0\UniversidadAPI.Infrastructure.sourcelink.json
+C:\Users\acost\Downloads\backend-c#\UniversidadAPI.Infrastructure\obj\Debug\net8.0\UniversidadAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\acost\Downloads\backend-c#\UniversidadAPI.Infrastructure\bin\Debug\net8.0\UniversidadAPI.Infrastructure.deps.json
+C:\Users\acost\Downloads\backend-c#\UniversidadAPI.Infrastructure\bin\Debug\net8.0\UniversidadAPI.Infrastructure.dll
+C:\Users\acost\Downloads\backend-c#\UniversidadAPI.Infrastructure\bin\Debug\net8.0\UniversidadAPI.Infrastructure.pdb
+C:\Users\acost\Downloads\backend-c#\UniversidadAPI.Infrastructure\bin\Debug\net8.0\UniversidadAPI.Entities.dll
+C:\Users\acost\Downloads\backend-c#\UniversidadAPI.Infrastructure\bin\Debug\net8.0\UniversidadAPI.Entities.pdb
+C:\Users\acost\Downloads\backend-c#\UniversidadAPI.Infrastructure\obj\Debug\net8.0\Universi.4E319FA5.Up2Date
+C:\Users\acost\Downloads\backend-c#\UniversidadAPI.Infrastructure\obj\Debug\net8.0\UniversidadAPI.Infrastructure.dll
+C:\Users\acost\Downloads\backend-c#\UniversidadAPI.Infrastructure\obj\Debug\net8.0\refint\UniversidadAPI.Infrastructure.dll
+C:\Users\acost\Downloads\backend-c#\UniversidadAPI.Infrastructure\obj\Debug\net8.0\UniversidadAPI.Infrastructure.pdb
+C:\Users\acost\Downloads\backend-c#\UniversidadAPI.Infrastructure\obj\Debug\net8.0\ref\UniversidadAPI.Infrastructure.dll

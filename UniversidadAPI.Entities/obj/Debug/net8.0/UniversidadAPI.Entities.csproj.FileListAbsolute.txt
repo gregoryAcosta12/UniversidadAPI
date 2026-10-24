@@ -1,0 +1,12 @@
+C:\Users\acost\Downloads\backend-c#\UniversidadAPI.Entities\bin\Debug\net8.0\UniversidadAPI.Entities.deps.json
+C:\Users\acost\Downloads\backend-c#\UniversidadAPI.Entities\bin\Debug\net8.0\UniversidadAPI.Entities.dll
+C:\Users\acost\Downloads\backend-c#\UniversidadAPI.Entities\bin\Debug\net8.0\UniversidadAPI.Entities.pdb
+C:\Users\acost\Downloads\backend-c#\UniversidadAPI.Entities\obj\Debug\net8.0\UniversidadAPI.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acost\Downloads\backend-c#\UniversidadAPI.Entities\obj\Debug\net8.0\UniversidadAPI.Entities.AssemblyInfoInputs.cache
+C:\Users\acost\Downloads\backend-c#\UniversidadAPI.Entities\obj\Debug\net8.0\UniversidadAPI.Entities.AssemblyInfo.cs
+C:\Users\acost\Downloads\backend-c#\UniversidadAPI.Entities\obj\Debug\net8.0\UniversidadAPI.Entities.csproj.CoreCompileInputs.cache
+C:\Users\acost\Downloads\backend-c#\UniversidadAPI.Entities\obj\Debug\net8.0\UniversidadAPI.Entities.sourcelink.json
+C:\Users\acost\Downloads\backend-c#\UniversidadAPI.Entities\obj\Debug\net8.0\UniversidadAPI.Entities.dll
+C:\Users\acost\Downloads\backend-c#\UniversidadAPI.Entities\obj\Debug\net8.0\refint\UniversidadAPI.Entities.dll
+C:\Users\acost\Downloads\backend-c#\UniversidadAPI.Entities\obj\Debug\net8.0\UniversidadAPI.Entities.pdb
+C:\Users\acost\Downloads\backend-c#\UniversidadAPI.Entities\obj\Debug\net8.0\ref\UniversidadAPI.Entities.dll

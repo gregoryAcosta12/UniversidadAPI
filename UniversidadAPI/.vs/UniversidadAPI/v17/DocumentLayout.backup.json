@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acost\\Downloads\\backend-c#\\UniversidadAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF7F286-6399-4885-9106-9082E04856E8}|..\\UniversidadAPI.Business\\UniversidadAPI.Business.csproj|c:\\users\\acost\\downloads\\backend-c#\\universidadapi.business\\universidadapi.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DE4383-AA55-413D-8037-31DF45C691FC}|..\\UniversidadAPI.DataAccess\\UniversidadAPI.DataAccess.csproj|c:\\users\\acost\\downloads\\backend-c#\\universidadapi.dataaccess\\dbcontext\\universidaddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD41BE9-BAF9-405F-878D-D8CBFA2AD885}|UniversidadAPI.csproj|c:\\users\\acost\\downloads\\backend-c#\\universidadapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD41BE9-BAF9-405F-878D-D8CBFA2AD885}|UniversidadAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD41BE9-BAF9-405F-878D-D8CBFA2AD885}|UniversidadAPI.csproj|c:\\users\\acost\\downloads\\backend-c#\\universidadapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BAD41BE9-BAF9-405F-878D-D8CBFA2AD885}|UniversidadAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2A5551-D59F-4DDC-BBB1-96EC73747EFF}|..\\UniversidadAPI.Presentation\\UniversidadAPI.Presentation.csproj|c:\\users\\acost\\downloads\\backend-c#\\universidadapi.presentation\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2A5551-D59F-4DDC-BBB1-96EC73747EFF}|..\\UniversidadAPI.Presentation\\UniversidadAPI.Presentation.csproj|c:\\users\\acost\\downloads\\backend-c#\\universidadapi.presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF7F286-6399-4885-9106-9082E04856E8}|..\\UniversidadAPI.Business\\UniversidadAPI.Business.csproj|c:\\users\\acost\\downloads\\backend-c#\\universidadapi.business\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D74B6A-B6AA-448E-8C98-BF8AE40B646F}|..\\UniversidadAPI.Infrastructure\\UniversidadAPI.Infrastructure.csproj|c:\\users\\acost\\downloads\\backend-c#\\universidadapi.infrastructure\\middleware\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D74B6A-B6AA-448E-8C98-BF8AE40B646F}|..\\UniversidadAPI.Infrastructure\\UniversidadAPI.Infrastructure.csproj|c:\\users\\acost\\downloads\\backend-c#\\universidadapi.infrastructure\\middleware\\corsmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\acost\\Downloads\\backend-c#\\UniversidadAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\acost\\Downloads\\backend-c#\\UniversidadAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-26T02:46:13.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UniversidadAPI.Business.csproj",
+              "DocumentMoniker": "C:\\Users\\acost\\Downloads\\backend-c#\\UniversidadAPI.Business\\UniversidadAPI.Business.csproj",
+              "RelativeDocumentMoniker": "..\\UniversidadAPI.Business\\UniversidadAPI.Business.csproj",
+              "ToolTip": "C:\\Users\\acost\\Downloads\\backend-c#\\UniversidadAPI.Business\\UniversidadAPI.Business.csproj",
+              "RelativeToolTip": "..\\UniversidadAPI.Business\\UniversidadAPI.Business.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-23T17:17:29.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\acost\\Downloads\\backend-c#\\UniversidadAPI.Presentation\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "..\\UniversidadAPI.Presentation\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\acost\\Downloads\\backend-c#\\UniversidadAPI.Presentation\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "..\\UniversidadAPI.Presentation\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T15:41:48.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acost\\Downloads\\backend-c#\\UniversidadAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\acost\\Downloads\\backend-c#\\UniversidadAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAADwv5MAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T15:37:09.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\acost\\Downloads\\backend-c#\\UniversidadAPI.Business\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "..\\UniversidadAPI.Business\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\acost\\Downloads\\backend-c#\\UniversidadAPI.Business\\Services\\AuthService.cs",
+              "RelativeToolTip": "..\\UniversidadAPI.Business\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T18:16:08.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UniversidadDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\acost\\Downloads\\backend-c#\\UniversidadAPI.DataAccess\\Dbcontext\\UniversidadDbContext.cs",
+              "RelativeDocumentMoniker": "..\\UniversidadAPI.DataAccess\\Dbcontext\\UniversidadDbContext.cs",
+              "ToolTip": "C:\\Users\\acost\\Downloads\\backend-c#\\UniversidadAPI.DataAccess\\Dbcontext\\UniversidadDbContext.cs",
+              "RelativeToolTip": "..\\UniversidadAPI.DataAccess\\Dbcontext\\UniversidadDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA8wB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T17:57:07.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\acost\\Downloads\\backend-c#\\UniversidadAPI.Presentation\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "..\\UniversidadAPI.Presentation\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\acost\\Downloads\\backend-c#\\UniversidadAPI.Presentation\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "..\\UniversidadAPI.Presentation\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAuwEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T02:23:35.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JwtMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\acost\\Downloads\\backend-c#\\UniversidadAPI.Infrastructure\\Middleware\\JwtMiddleware.cs",
+              "RelativeDocumentMoniker": "..\\UniversidadAPI.Infrastructure\\Middleware\\JwtMiddleware.cs",
+              "ToolTip": "C:\\Users\\acost\\Downloads\\backend-c#\\UniversidadAPI.Infrastructure\\Middleware\\JwtMiddleware.cs",
+              "RelativeToolTip": "..\\UniversidadAPI.Infrastructure\\Middleware\\JwtMiddleware.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAIBJwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T18:10:05.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CorsMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\acost\\Downloads\\backend-c#\\UniversidadAPI.Infrastructure\\Middleware\\CorsMiddleware.cs",
+              "RelativeDocumentMoniker": "..\\UniversidadAPI.Infrastructure\\Middleware\\CorsMiddleware.cs",
+              "ToolTip": "C:\\Users\\acost\\Downloads\\backend-c#\\UniversidadAPI.Infrastructure\\Middleware\\CorsMiddleware.cs",
+              "RelativeToolTip": "..\\UniversidadAPI.Infrastructure\\Middleware\\CorsMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T18:05:37.414Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 670,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

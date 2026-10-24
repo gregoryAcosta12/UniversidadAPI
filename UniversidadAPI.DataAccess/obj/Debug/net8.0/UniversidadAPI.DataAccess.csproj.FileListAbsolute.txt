@@ -1,0 +1,16 @@
+C:\Users\acost\Downloads\backend-c#\UniversidadAPI.DataAccess\obj\Debug\net8.0\UniversidadAPI.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acost\Downloads\backend-c#\UniversidadAPI.DataAccess\obj\Debug\net8.0\UniversidadAPI.DataAccess.AssemblyInfoInputs.cache
+C:\Users\acost\Downloads\backend-c#\UniversidadAPI.DataAccess\obj\Debug\net8.0\UniversidadAPI.DataAccess.AssemblyInfo.cs
+C:\Users\acost\Downloads\backend-c#\UniversidadAPI.DataAccess\obj\Debug\net8.0\UniversidadAPI.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\acost\Downloads\backend-c#\UniversidadAPI.DataAccess\obj\Debug\net8.0\UniversidadAPI.DataAccess.sourcelink.json
+C:\Users\acost\Downloads\backend-c#\UniversidadAPI.DataAccess\obj\Debug\net8.0\UniversidadAPI.DataAccess.csproj.AssemblyReference.cache
+C:\Users\acost\Downloads\backend-c#\UniversidadAPI.DataAccess\bin\Debug\net8.0\UniversidadAPI.DataAccess.deps.json
+C:\Users\acost\Downloads\backend-c#\UniversidadAPI.DataAccess\bin\Debug\net8.0\UniversidadAPI.DataAccess.dll
+C:\Users\acost\Downloads\backend-c#\UniversidadAPI.DataAccess\bin\Debug\net8.0\UniversidadAPI.DataAccess.pdb
+C:\Users\acost\Downloads\backend-c#\UniversidadAPI.DataAccess\bin\Debug\net8.0\UniversidadAPI.Entities.dll
+C:\Users\acost\Downloads\backend-c#\UniversidadAPI.DataAccess\bin\Debug\net8.0\UniversidadAPI.Entities.pdb
+C:\Users\acost\Downloads\backend-c#\UniversidadAPI.DataAccess\obj\Debug\net8.0\Universi.7AB8225E.Up2Date
+C:\Users\acost\Downloads\backend-c#\UniversidadAPI.DataAccess\obj\Debug\net8.0\UniversidadAPI.DataAccess.dll
+C:\Users\acost\Downloads\backend-c#\UniversidadAPI.DataAccess\obj\Debug\net8.0\refint\UniversidadAPI.DataAccess.dll
+C:\Users\acost\Downloads\backend-c#\UniversidadAPI.DataAccess\obj\Debug\net8.0\UniversidadAPI.DataAccess.pdb
+C:\Users\acost\Downloads\backend-c#\UniversidadAPI.DataAccess\obj\Debug\net8.0\ref\UniversidadAPI.DataAccess.dll
